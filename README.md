@@ -1,4 +1,4 @@
-<h1 align="left">Hey There 👋 😶‍🌫️</h1>
+<h1 align="left">Hey There 😶‍🌫️</h1>
 
 ###
 
@@ -6,13 +6,19 @@
 
 ###
 
-<h2 align="left">🥸 About me</h2>
+<h2 align="left">👟 About me</h2>
 
 ###
 
-<p align="left">🧑‍🚀 Info:<br>I’m a tech enthusiast who loves to explore, break, and fix all things tech! From networks to servers and everything in between, I’m always hands-on and learning something new.<br><br>Let’s connect, share ideas, or build something cool together! 🤯<br>Feel free to reach out for any Freelance Projects.</p>
+<p align="left"><br>I’m a tech enthusiast who loves to explore, break, and fix all things tech! From networks to servers and everything in between, I’m always hands-on and learning something new.<br><br>Let’s connect, share ideas, or build something cool together! 🤯<br>Feel free to reach out for any Freelance Projects.</p>
 
 ###
+
+<h2 align="left">Check me out:</h2>
+<div align="left">
+<img width="12" />
+<img src="https://skillicons.dev/icons?i=devto" height="40" alt="devto logo"  /> . <url>https://dev.to/abeamar</url>
+</div>
 
 <h2 align="left">I work with</h2>
 
