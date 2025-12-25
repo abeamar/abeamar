@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 There</h1>
+<h1 align="left">Hey There 👋 😶‍🌫️</h1>
 
 ###
 
@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">🥸 About me</h2>
 
 ###
 
-<p align="left">🎯 Info:<br>I’m a tech enthusiast who loves to explore, break, and fix all things tech! From networks to servers and everything in between, I’m always hands-on and learning something new.<br><br>Let’s connect, share ideas, or build something cool together! 🤯<br>Feel free to reach out for any Freelance Projects.</p>
+<p align="left">🧑‍🚀 Info:<br>I’m a tech enthusiast who loves to explore, break, and fix all things tech! From networks to servers and everything in between, I’m always hands-on and learning something new.<br><br>Let’s connect, share ideas, or build something cool together! 🤯<br>Feel free to reach out for any Freelance Projects.</p>
 
 ###
 
