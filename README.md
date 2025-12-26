@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Check me out:</h2>
+<h2 align="left">Check out my topics:</h2>
 <div align="left">
 <img width="12" />
 <img src="https://skillicons.dev/icons?i=devto" height="40" alt="devto logo"  /> . <url>https://dev.to/abeamar</url>
