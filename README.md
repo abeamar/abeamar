@@ -18,8 +18,8 @@
 <div align="left">
 <img width="12" />
   
-<a href="https://dev.to/abeamar/linked-server-vs-openquery-vs-openrowset-vs-opendatasource-432m"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oi617v5dwn5bulteczcc.jpg" height="270" width=590 /></a> 
-<a href="https://dev.to/abeamar/winforms-in-2025-heres-the-slick-mssql-monitoring-app-i-built-3epf"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lhjabfdberbhcja5uqmn.jpg" height="270" width=590 /></a>
+<a href="https://dev.to/abeamar/linked-server-vs-openquery-vs-openrowset-vs-opendatasource-432m"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oi617v5dwn5bulteczcc.jpg" height="270" width=580 /></a> 
+<a href="https://dev.to/abeamar/winforms-in-2025-heres-the-slick-mssql-monitoring-app-i-built-3epf"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lhjabfdberbhcja5uqmn.jpg" height="270" width=580 /></a>
 </div>
 
 <h2 align="left">I work with</h2>
