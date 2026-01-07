@@ -18,6 +18,7 @@
 <div align="left">
 <img width="12" />
 
+<a href="https://dev.to/abeamar/craft-and-control-resource-pools-on-mssql-4jci"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g3kbbz372nbzrnxuse5r.jpg" height="270" width=540 /></a> 
 <a href="https://dev.to/abeamar/track-blocking-and-deadlocks-in-mssql-with-my-custom-script-1877"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2jq9fyz4ipatbudgumhb.jpg" height="270" width=540 /></a> 
 <a href="https://dev.to/abeamar/linked-server-vs-openquery-vs-openrowset-vs-opendatasource-432m"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oi617v5dwn5bulteczcc.jpg" height="270" width=540 /></a> 
 <a href="https://dev.to/abeamar/winforms-in-2025-heres-the-slick-mssql-monitoring-app-i-built-3epf"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lhjabfdberbhcja5uqmn.jpg" height="270" width=540 /></a>
