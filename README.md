@@ -10,7 +10,8 @@
 
 ###
 
-<p align="left"><br>I’m a tech enthusiast who loves to explore, break, and fix all things tech! From networks to servers and everything in between, I’m always hands-on and learning something new.<br><br>Let’s connect, share ideas, or build something cool together! 🤯<br>Feel free to reach out for any Freelance Projects.</p>
+<p align="left"><br>I’m a tech enthusiast who loves to explore, break, and fix all things tech! From networks to servers and everything in between, I’m always hands-on and learning something new.<br><br>Let’s connect, share ideas, or build something cool together! 🤯<br>Feel free to reach out for any Freelance Projects.
+Work with SQL, C#, Python, HTML/CSS with hands-on experience in networking Cisco/MikroTik, Database administration, building data-driven solutions using MSSQL SSIS/SSRS, Visual Studio. Expirience in working with Cloud services on AWS & Azure.</p>
 
 ###
 
@@ -25,7 +26,7 @@
 <a href="https://dev.to/abeamar/winforms-in-2025-heres-the-slick-mssql-monitoring-app-i-built-3epf"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/lhjabfdberbhcja5uqmn.jpg" height="270" width=540 /></a>
 </div>
 
-<h2 align="left">I work with</h2>
+<h2 align="left">I play with</h2>
 
 ###
 
