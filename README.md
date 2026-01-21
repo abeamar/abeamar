@@ -15,10 +15,10 @@ Work with SQL, C#, Python, HTML/CSS with hands-on experience in networking Cisco
 
 ###
 
-<h2 align="left"><img src="https://skillicons.dev/icons?i=devto" height="40" alt="devto logo"  />  Catch up on my Dev.to articles</h2> <url>https://dev.to/abeamar</url>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Callibril&lines=Catch+up+with+my+Dev.to+articles;https://dev.to/abeamar)](https://git.io/typing-svg)
 <div align="left">
 <img width="12" />
-
+  
 <a href="https://dev.to/abeamar/modular-approach-to-database-performance-and-maintainability-4ao2 "><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3mbkg7hcytoel7awptxn.jpg" height="270" width=540 /></a> 
 <a href="https://dev.to/abeamar/mssql-encryptions-certificates-a-symmetric-keys-and-more-vol-1-1ed9"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gelf3imjzaw1bu2fqjcw.jpg" height="270" width=540 /></a> 
 <a href="https://dev.to/abeamar/craft-and-control-resource-pools-on-mssql-4jci"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g3kbbz372nbzrnxuse5r.jpg" height="270" width=540 /></a> 
