@@ -18,7 +18,8 @@ Work with SQL, C#, Python, HTML/CSS with hands-on experience in networking Cisco
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Callibril&lines=Catch+up+with+my+Dev.to+articles;https://dev.to/abeamar)](https://git.io/typing-svg)
 <div align="left">
 <img width="12" />
-  
+
+<a href="https://dev.to/abeamar/abemon-ms-sql-tool-v100-monitor-and-debug-60m"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2mwf43v0fxe7f3z8m67y.jpg" height="270" width=540 /></a> 
 <a href="https://dev.to/abeamar/mssql-dbcc-how-good-are-they-really--4543"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dbj7v96b8jrrym1ajods.jpg" height="270" width=540 /></a> 
 <a href="https://dev.to/abeamar/modular-approach-to-database-performance-and-maintainability-4ao2 "><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3mbkg7hcytoel7awptxn.jpg" height="270" width=540 /></a> 
 <a href="https://dev.to/abeamar/mssql-encryptions-certificates-a-symmetric-keys-and-more-vol-1-1ed9"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gelf3imjzaw1bu2fqjcw.jpg" height="270" width=540 /></a> 
