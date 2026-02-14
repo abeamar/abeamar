@@ -19,6 +19,7 @@ Work with SQL, C#, Python, HTML/CSS with hands-on experience in networking Cisco
 <div align="left">
 <img width="12" />
 
+<a href="https://dev.to/abeamar/what-happens-when-sql-server-page-gets-corrupted--33pe"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c9g4jextqujbgy8c4g8x.jpg" height="270" width=540 /></a> 
 <a href="https://dev.to/abeamar/abemon-ms-sql-tool-v100-monitor-and-debug-60m"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2mwf43v0fxe7f3z8m67y.jpg" height="270" width=540 /></a> 
 <a href="https://dev.to/abeamar/mssql-dbcc-how-good-are-they-really--4543"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dbj7v96b8jrrym1ajods.jpg" height="270" width=540 /></a> 
 <a href="https://dev.to/abeamar/modular-approach-to-database-performance-and-maintainability-4ao2 "><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3mbkg7hcytoel7awptxn.jpg" height="270" width=540 /></a> 
