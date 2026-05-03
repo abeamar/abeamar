@@ -19,17 +19,17 @@ Work with SQL, C#, Python, HTML/CSS with hands-on experience in networking Cisco
 <div align="left">
 <img width="12" />
 
-<a href="https://dev.to/abeamar/what-happens-when-sql-server-page-gets-corrupted--33pe"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c9g4jextqujbgy8c4g8x.jpg" height="270" width=540 /></a> 
-<a href="https://dev.to/abeamar/abemon-ms-sql-tool-v100-monitor-and-debug-60m"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2mwf43v0fxe7f3z8m67y.jpg" height="270" width=540 /></a> 
-<a href="https://dev.to/abeamar/mssql-dbcc-how-good-are-they-really--4543"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dbj7v96b8jrrym1ajods.jpg" height="270" width=540 /></a> 
-<a href="https://dev.to/abeamar/modular-approach-to-database-performance-and-maintainability-4ao2 "><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3mbkg7hcytoel7awptxn.jpg" height="270" width=540 /></a> 
-<a href="https://dev.to/abeamar/mssql-encryptions-certificates-a-symmetric-keys-and-more-vol-1-1ed9"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gelf3imjzaw1bu2fqjcw.jpg" height="270" width=540 /></a> 
-<a href="https://dev.to/abeamar/craft-and-control-resource-pools-on-mssql-4jci"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g3kbbz372nbzrnxuse5r.jpg" height="270" width=540 /></a> 
-<a href="https://dev.to/abeamar/track-blocking-and-deadlocks-in-mssql-with-my-custom-script-1877"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2jq9fyz4ipatbudgumhb.jpg" height="270" width=540 /></a> 
-<a href="https://dev.to/abeamar/linked-server-vs-openquery-vs-openrowset-vs-opendatasource-432m"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oi617v5dwn5bulteczcc.jpg" height="270" width=540 /></a> 
+<a href="https://dev.to/abeamar/what-happens-when-sql-server-page-gets-corrupted--33pe"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c9g4jextqujbgy8c4g8x.jpg" height="235" width=540 /></a> 
+<a href="https://dev.to/abeamar/abemon-ms-sql-tool-v100-monitor-and-debug-60m"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2mwf43v0fxe7f3z8m67y.jpg" height="235" width=540 /></a> 
+<a href="https://dev.to/abeamar/mssql-dbcc-how-good-are-they-really--4543"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dbj7v96b8jrrym1ajods.jpg" height="235" width=540 /></a> 
+<a href="https://dev.to/abeamar/modular-approach-to-database-performance-and-maintainability-4ao2 "><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3mbkg7hcytoel7awptxn.jpg" height="235" width=540 /></a> 
+<a href="https://dev.to/abeamar/mssql-encryptions-certificates-a-symmetric-keys-and-more-vol-1-1ed9"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gelf3imjzaw1bu2fqjcw.jpg" height="235" width=540 /></a> 
+<a href="https://dev.to/abeamar/craft-and-control-resource-pools-on-mssql-4jci"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/g3kbbz372nbzrnxuse5r.jpg" height="235" width=540 /></a> 
+<a href="https://dev.to/abeamar/track-blocking-and-deadlocks-in-mssql-with-my-custom-script-1877"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2jq9fyz4ipatbudgumhb.jpg" height="235" width=540 /></a> 
+<a href="https://dev.to/abeamar/linked-server-vs-openquery-vs-openrowset-vs-opendatasource-432m"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/oi617v5dwn5bulteczcc.jpg" height="235" width=540 /></a> 
 </div>
 
-<h2 align="left">I play with</h2>
+<h2 align="left">I work with</h2>
 
 ###
 
