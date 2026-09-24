@@ -19,7 +19,7 @@ Work with SQL, C#, Python, HTML/CSS with hands-on experience in networking Cisco
 
 <a href="https://dev.to/abeamar/show-dev-abego-video-gpx-telemetry-sync-tool-2icp"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/djowp7go18mgem7svs01.jpg" width=320 /></a> 
 <a href="https://dev.to/abeamar/what-happens-when-sql-server-page-gets-corrupted--33pe"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c9g4jextqujbgy8c4g8x.jpg" width=320 /></a> 
-<a href="https://dev.to/abeamar/abemon-ms-sql-tool-v100-monitor-and-debug-60m"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/2mwf43v0fxe7f3z8m67y.jpg" width=320/></a> 
+<a href="https://dev.to/abeamar/abemon-ms-sql-tool-v100-monitor-and-debug-60m"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z4ln75rfy9x446revegl.jpg" width=320/></a> 
 <a href="https://dev.to/abeamar/mssql-dbcc-how-good-are-they-really--4543"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/dbj7v96b8jrrym1ajods.jpg" width=320 /></a> 
 <a href="https://dev.to/abeamar/modular-approach-to-database-performance-and-maintainability-4ao2 "><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3mbkg7hcytoel7awptxn.jpg" width=320 /></a> 
 <a href="https://dev.to/abeamar/mssql-encryptions-certificates-a-symmetric-keys-and-more-vol-1-1ed9"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/gelf3imjzaw1bu2fqjcw.jpg" width=320 /></a> 
