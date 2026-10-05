@@ -17,6 +17,7 @@ Work with SQL, C#, Python, HTML/CSS with hands-on experience in networking Cisco
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=verdana&color=C7C757&lines=Catch+up+with+my+Dev.to+articles;https://dev.to/abeamar)](https://git.io/typing-svg)
 
+<a href="https://dev.to/abeamar/mssql-extended-events-stop-guessing-and-start-targeting-4h4l"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ttffkup77vlybjptiobg.jpg" width=320 /></a> 
 <a href="https://dev.to/abeamar/show-dev-abego-video-gpx-telemetry-sync-tool-2icp"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/djowp7go18mgem7svs01.jpg" width=320 /></a> 
 <a href="https://dev.to/abeamar/what-happens-when-sql-server-page-gets-corrupted--33pe"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/c9g4jextqujbgy8c4g8x.jpg" width=320 /></a> 
 <a href="https://dev.to/abeamar/abemon-ms-sql-tool-v100-monitor-and-debug-60m"><img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/z4ln75rfy9x446revegl.jpg" width=320/></a> 
