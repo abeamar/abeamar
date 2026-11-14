@@ -11,7 +11,7 @@
 ###
 
 <p align="left"><br>I’m a tech enthusiast who loves to explore, break, and fix all things tech! From networks to servers and everything in between, I’m always hands-on and learning something new.<br><br>Let’s connect, share ideas, or build something cool together! 🤯<br>Feel free to reach out for any Freelance Projects. <br>
-Work with SQL, C#, Python, HTML/CSS with hands-on experience in networking Cisco/MikroTik, Database administration, building data-driven solutions using MSSQL SSIS/SSRS, Visual Studio. Expirience in working with Cloud services on AWS & Azure.</p>
+Work with SQL, C#, Python, HTML/CSS with hands-on experience in networking Cisco/MikroTik, Database administration, building data-driven solutions using MSSQL SSIS/SSRS, Visual Studio. Expirience in working with Cloud services on AWS & Azure. My experience also includes Databricks and Lakehouse technologies.</p>
 
 ###
 
